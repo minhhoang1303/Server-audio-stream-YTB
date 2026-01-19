@@ -14,7 +14,7 @@ Xiaozhi Audio Server là một ứng dụng Flask mạnh mẽ cho phép stream v
 🎛️ Dashboard tích hợp
 Real-time Statistics: Uptime, total requests, cache hits/misses
 
-Log System: Hiển thị logs trực tiếp với màu sắc phân loại
+Log System: Hiển thị logs trực tiếp 
 
 Cache Management: Quản lý và xóa cache từ dashboard
 
