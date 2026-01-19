@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+
+<img width="975" height="767" alt="Screenshot 2026-01-19 151234" src="https://github.com/user-attachments/assets/28a1e76e-9ac0-40c7-9fc4-330edddce47e" />
 
 🎵 Xiaozhi Audio Server v2.1
 Stream Audio từ YouTube và YouTube Music với Dashboard tích hợp
